@@ -4,4 +4,4 @@ DESCRIPCIÓN: El Proyecto Around The U.S, es creado mediante React.js y te va a 
 
 TECNOLOGIAS USADAS: HTLM5, CSS, JavaScript, React, Vite.
 
-Visita el proyecto a través de GitHub pages con el siguiente enlace:
+Visita el proyecto a través de GitHub pages con el siguiente enlace:  https://ericksj91.github.io/web_project_around_react/
