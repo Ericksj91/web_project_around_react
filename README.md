@@ -1,16 +1,7 @@
-# React + Vite
+TÍTULO: PROYECTO AROUND THE U.S
+AUTOR: ERICK JIMÉNEZ
+DESCRIPCIÓN: El Proyecto Around The U.S, es creado mediante React.js y te va a permitir crear una galería interactiva de fotos de diferentes lugares ya sea que los conozcas o quieras darlos a conocer, las fotos las vas a poder integrar mediante un formulario donde llenaras campos muy fácilmente y podrás añadir las fotos mediante una dirección URL. También podrás eliminar o dar me gusta a las fotos subidas, así como ampliarlas a su tamaño original. Para finalizar puedes editar el nombre que viene por defecto, así como poner una pequeña descripción de tu profesión o le que te apasiona hacer en cuanto a exploración de lugares o la naturaleza. Siéntete libre de explorar todas las características de esta página para aventureros.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TECNOLOGIAS USADAS: HTLM5, CSS, JavaScript, React, Vite.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Visita el proyecto a través de GitHub pages con el siguiente enlace:
