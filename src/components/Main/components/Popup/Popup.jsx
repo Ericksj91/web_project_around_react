@@ -1,9 +1,9 @@
 export default function Popup(props) {
-  const { onClose, title, children } = props;
+  const { onClose, title, children, className } = props;
   return (
     <div className="popup">
       <div
-        className={`popup__content ${!title ? "popup__content_type_image" : ""}`}
+        className={`popup__content ${className || (!title ? "popup__content_type_image" : "")}`}
       >
         <button
           aria-label="Cerrar ventana emergente"
